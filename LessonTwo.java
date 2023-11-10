@@ -38,10 +38,10 @@ public class LessonTwo {
         int a = 2;
         int b = 3;
                 
-        if (a>=b) {
-            System.out.println("a>=b");
+        if (a >= b) {
+            System.out.println("a >= b");
         } else {
-            System.out.println ("a<b");
+            System.out.println ("a < b");
         }
     }
 }
