@@ -17,20 +17,20 @@ public class LessonTwo {
            int b = 5;     
            int sum = a + b;
         if  (sum >= 0) {
-          System.out.println ("Сумма положительная");
+          System.out.println ("пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
         }   else {
-          System.out.println ("Сумма отрицательная"); 
+          System.out.println ("пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ"); 
         }
     }
 
     private static void printColor () {
         int value = 40;
         if (value <= 0) {
-            System.out.println ("Красный");
+            System.out.println ("пїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
         } else if (value <= 100) {
-            System.out.println ("Желтый");
+            System.out.println ("пїЅпїЅпїЅпїЅпїЅпїЅ");
         } else {
-            System.out.println ("Зеленый");
+            System.out.println ("пїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
         }    
     }
  
