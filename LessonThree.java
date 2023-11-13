@@ -30,9 +30,9 @@ public class LessonThree {
 
     private static void numCheck(int x) {
         if (x >= 0) {
-            System.out.println("����� �������������");
+            System.out.println("Число положительное");
         } else {
-            System.out.println("����� �������������");
+            System.out.println("Число отрицательное");
         }
     }
 
