@@ -1,6 +1,5 @@
 public class FindFactorial {
-
-   public static int factorial(int n){
+    public static int factorial(int n){
 
         if (n < 0) {
             throw new IllegalArgumentException("Вы ввели отрицательное число");
@@ -12,5 +11,4 @@ public class FindFactorial {
         }
         return result;
     }
-
 }
