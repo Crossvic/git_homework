@@ -1,3 +1,18 @@
-# Default ignored files
+.DS_Store# Default ignored files
 /shelf/
 /workspace.xml
+*.iml
+*.ipr
+*.iws
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.rar
+hs_err_pid*
+replay_pid*
