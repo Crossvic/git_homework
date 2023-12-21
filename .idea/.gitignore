@@ -1,13 +1,12 @@
-.DS_Store# Default ignored files
-/shelf/
+# Default ignored files
 /workspace.xml
+target
 *.iml
 *.ipr
 *.iws
 *.class
 *.log
 *.ctxt
-.mtj.tmp/
 *.jar
 *.war
 *.nar

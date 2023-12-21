@@ -1,4 +1,4 @@
-package org.example;
+package Lesson_14;
 
 import org.junit.After;
 import org.junit.Before;
@@ -15,10 +15,9 @@ public class WebDriverSettings {
         System.setProperty("webdriver.chrome.driver", "src/test/resources/chromedriver.exe");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(60));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
         driver.get("https://mts.by");
     }
-
     @After
     public void close() {
         driver.quit();
