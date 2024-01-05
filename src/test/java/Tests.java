@@ -9,6 +9,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.Duration;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
@@ -100,3 +101,4 @@ public class Tests {
         driver.quit();
     }
 }
+
